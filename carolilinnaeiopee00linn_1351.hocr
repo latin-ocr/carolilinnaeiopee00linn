@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carolilinnaeiopee00linn_1351.png"; bbox 0 0 1970 3009; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1718 38 1758 49">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1718 38 1758 49">
+     <span class='ocr_line' id='line_1_1' title="bbox 1718 38 1758 49; baseline 0.075 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1718 38 1758 49; x_wconf 67' lang='lat' dir='ltr'><em>nuo</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1403 30 1882 194">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1403 30 1882 194">
+     <span class='ocr_line' id='line_1_2' title="bbox 1403 30 1882 194; baseline 0.033 -57"><span class='ocrx_word' id='word_1_2' title='bbox 1403 30 1882 194; x_wconf 50' lang='lat' dir='ltr'><em>(tsfflmfflfflfflfflfffflfflfflem&#39;ffltgaeafim</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
